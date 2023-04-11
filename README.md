@@ -1,2 +1,2 @@
 ### __Github Stats__ 📊
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mykha8lad&count_private=true&show_icons=true&hide=issues,contribs&text_color=282A36&border_color=282A36&bg_color=DEG,FFEB00,0000FF&title_color=282A36&icon_color=282A36)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mykha8lad&count_private=true&show_icons=true&hide=issues,contribs&text_color=E8E6FF&border_color=212121&bg_color=DEG,FF0000,000000&title_color=E8E6FF&icon_color=E8E6FF)
